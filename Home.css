@@ -1,0 +1,733 @@
+.main{
+    background-image: url('green grass.jpg');
+}
+
+#one{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 1000;
+}
+
+#md {
+    margin: 0 auto;
+    height: 200px;
+    width: 250px;
+    border: 2px solid black;
+    background-color: yellow;
+    border-radius: 50%;
+}
+
+img:hover{
+    background-color: rgb(79, 80, 4);
+    background-color: rgb(104, 109, 114);
+    border-radius: 50%;
+}
+
+.contact{
+    display: block;
+    color: rgb(42, 17, 90);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-style: 0px;
+    border-radius: 40px;
+    height: 270px;
+}
+
+
+
+
+.contact a{
+    font-size: 20px;
+
+}
+
+.contact:hover{
+    background-color: rgb(172, 143, 161);
+}
+
+
+.dwaw{
+    display: flex;
+    padding-left: 100px;
+}
+.dowasteel{
+    padding-left: 100px;
+}
+#teel{
+    border-radius: 20px;
+    height: 150px;
+    width: 400px;
+}
+.dowastee{
+    padding-left: 100px;
+}
+#te{
+    border-radius: 20px;
+    height: 150px;
+    width: 400px;
+}
+
+.topemail{
+    background-color: black;
+    color: white;
+    height: 175px;
+    width: 1350px;
+    padding-top: 0px;
+    display: block;
+    font-size: 25px;
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    z-index: 1030;
+    border-bottom: 5px solid rgb(160, 58, 20);
+}
+
+
+.namelogo{
+    padding-left: 30px;
+    display: flex;
+    color: white;
+    font-family: serif ;
+}
+
+.name{
+    color: white;
+}
+
+.call{
+    display: grid;
+    padding-top: 0px;
+    text-align: right;
+    padding-left: 500px;
+    font-size: 20px;
+    
+}
+
+#logo{
+    height: 100px;
+    width: 100px;
+}
+
+.links{
+    text-align: center;
+    padding-top: 5px;
+    word-spacing: 20px;
+    color: rgb(250, 250, 250);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    height: 50px;
+    width: 2230px;
+    padding-right: 100px;
+    transition: ease-in;
+    transition-timing-function: linear;
+}
+
+.clean{
+    display: inline-flex;
+}
+
+#cln{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   color: white;
+   font-size: 20px;
+}
+
+.uptra{
+    height: 100px;
+    border-bottom: 2px solid orangered;
+    background-image: url('green grass.jpg');
+    
+}
+
+.uptr{
+   display: flex;
+   align-items: center; 
+   padding: 50px;
+   background-image: url('catoon\ dumping.jpg');
+   background-repeat: no-repeat;
+   height: 380px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   color: white;
+   text-decoration: none;
+   word-spacing: normal;
+   border-bottom: 2px solid orangered;
+   border: 2px solid red;
+
+  
+}
+
+.ci{
+    padding-top: 50px;
+    padding-left: 500px;
+    color: orangered;
+    color: white;
+    width: 300px;
+   
+}
+
+.uptr.cu{
+    display: flex;
+}
+
+
+
+.upt{
+   padding-left: 200px;
+   border-radius: 20px;
+   padding-bottom: 0px;
+   height: 120px;
+   width: 300px;
+   color: white;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   word-spacing: 5px;
+   
+
+}
+
+.vid{
+    color: green;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    
+    display: flex;
+  
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: green;
+    animation: reverse;
+    
+
+}
+
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.joind{
+    display: flex;
+}
+
+#lg{
+    padding: 4px;
+    height: 200px;
+    width: 100px;
+}
+#nex{
+    color: white;
+    text-decoration: none;
+}
+
+.telph{
+    text-align: right;
+    padding-right: 20px;
+    display: list-item;
+    text-decoration: none;
+}
+
+#mt{
+    color: white;
+    text-decoration: none;
+}
+
+#ei{
+    color: white;
+    text-decoration: none;
+}
+
+.services{
+    height: 1650px;
+    background-color:white;
+    color: rgb(238, 229, 229);
+    
+}
+
+#ourser{
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+.jointservices{
+    display: flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-spacing: 5px;
+    transition: width 4s;
+    transition-timing-function: ease-in;
+    
+}
+
+.leftside{
+    border-style: groove ;
+    width: 1000px;
+    border-radius: 50px;
+    background-color: rgb(160, 169, 177);
+    transition: width 4s;
+    transition-timing-function: ease-in;
+    color: blanchedalmond;
+   
+}
+
+#query{
+    height: 30px;
+}
+
+.leftside:hover{
+    background-color: rgb(165, 143, 156);
+}
+.rightside{
+    border-style: groove;
+    width: 200px;
+    border-radius: 40px;
+    background-color: rgb(39, 116, 179);
+    transition: width 4s;
+    transition-timing-function: ease-in;
+}
+
+.rightside:hover{
+    background-color:rgb(153, 134, 146);
+}
+
+
+.bar{
+    border: 0px;
+    background-color:  rgb(74, 126, 168);
+    border-radius: 30px;
+    padding-top: 80px;
+    width: 300px;
+    height: 1520px;
+    padding-left: 100px;
+
+}
+
+.bar:hover{
+     background-color: rgb(189, 172, 182);
+}
+
+.added{
+    display: grid;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    border-radius: 20px;
+    
+}
+
+.added:hover{
+    background-color:rgb(129, 116, 124);
+    color: rgb(129, 4, 4);
+    height: fit-content;
+}
+
+
+
+#reed{
+    height: 100px;
+    width: 180px;
+    border: 2px solid grey;
+    background-color: rgb(122, 110, 110);
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+    padding: 2%;
+}
+
+#bu{
+    padding-left: 100px;
+}
+
+
+#dom{
+    width: 100px;
+    height: 100px;
+}
+
+.domestic{
+    border: 1px solid green;
+    height: 200px;
+    width: 200px;
+}
+
+#dom{
+    height: 100px;
+    width: 100px;
+}
+
+
+#support{
+    color: white;
+    text-decoration: none;
+    word-spacing: normal;
+}
+
+
+.button{
+   text-align: center;
+   border-radius: 5px;
+}
+
+
+
+#but{
+    border-radius: 20px;
+    height: 30px;
+    width: 100px;
+    color: white;
+    background-color: rgb(13, 100, 134);
+}
+
+#but:hover{
+    background-color:rgb(145, 137, 142); ;
+}
+
+.mission{
+    display: flex;
+    border-spacing: 40px;
+    background-image: url('green grass.jpg');
+}
+
+.leftmission:hover{
+    background-color: rgb(123, 134, 123);
+}
+
+
+.leftmission{
+    height: 350px;
+    color: rgb(179, 185, 189);
+    width: max-content;
+    background-repeat: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+    border-radius: 20px;
+    background-color: rgb(90, 82, 82);
+    animation-timing-function: ease-in;
+    animation-duration: 5s;
+  
+    
+}
+
+.vision:hover{
+    background-color: rgb(115, 124, 115);
+    height: 350px ;
+}
+
+.vision{
+    height: 350px;
+    color: white;
+    background-size: cover;
+    width: fit-content;
+    background-repeat: no-repeat;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: rgb(82, 73, 73);
+    animation-timing-function: ease-in;
+    animation-duration: 5s;
+}
+
+.rightcustomer{
+    height: 350px;
+    color: rgb(211, 200, 200);
+    background-repeat: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+    border: 0px;
+    border-radius: 20px;
+    width: fit-content;
+    background-color: rgb(148, 140, 140);
+}
+
+.rightcustomer:hover{
+    
+    background-color: rgb(165, 179, 165);
+    height: 350px;
+}
+
+
+#misi{
+    font-style: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(13, 28, 240);
+    text-align: center;
+    font-size: 30px;
+    padding-top: 0px;
+    font-weight: bold;
+}
+
+#mi{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+#mis{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+#listed{
+    text-align: left;
+    font-size: 18px;
+
+}
+
+#hl{
+    color:white;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+.Git{
+    display: grid;
+}
+
+.Gita{
+    padding-left: 300px;
+    display: grid;
+    padding-top: 1px;
+}
+
+#get{
+    color: white;
+    font-size: 25px;
+}
+
+.Quick{
+    display: grid;
+}
+
+#address{
+    text-decoration: none;
+    color: rgb(116, 119, 121);
+}
+
+#location{
+    text-decoration: none;
+    color: rgb(116, 119, 121);
+}
+
+#phone{
+    text-decoration: none;
+    color: rgb(116, 119, 121);
+}
+
+#airtel{
+    text-decoration: none;
+    color: rgb(116, 119, 121);
+}
+
+.gmail{
+    display: flex;
+}
+#email{
+    text-decoration: none;
+    color: rgb(116, 119, 121);
+}
+
+#website{
+    text-decoration: none;
+    color: rgb(116, 119, 121);
+}
+
+
+
+
+#hml{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.ft{
+    display: flex;
+    height: 400px;
+    background-color: black;
+    color: rgb(156, 146, 146);
+    padding-left: 100px;
+    border-radius: 30px;
+    border-bottom: 2px solid orangered;
+}
+
+#loc{
+    display: block;
+    padding-bottom: 50px;
+}
+
+#cl{
+    color:Green
+}
+
+#cll{
+    padding-left: 5px;
+}
+
+#mtn{
+    display: block;
+    padding-left: 49px;
+}
+
+#web{
+    display: flex;
+}
+
+.middle{
+    display: flex;
+    padding-left: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+
+.Git{
+    display: grid;
+   
+    height: 400px;
+    width: 435Px;
+}
+
+#logedadress{
+    display: flex;
+    width: 300px;
+    height: 100px;
+}
+
+.Gitt{
+    height: 250px;
+    width: 300px;
+    display: grid;
+}
+
+.Giitt{
+    height: 270px;
+    width: 300px;
+    display: grid;
+}
+
+.Gita{
+    padding-left: 300px;
+    display: grid;
+    padding-top: 1px;
+}
+
+
+
+a#Git{
+    display: flex;
+}
+
+#get{
+    color: white;
+    font-size: 25px;
+}
+
+.lastly{
+    padding-top: 5px;
+    background-color: rgb(49, 48, 48);
+    text-align: center;
+    color: white;
+    border-radius: 50px;
+    border-bottom: 5px solid orangered;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transition: width 5s;
+    font-weight: bold;
+
+}
+
+.OurServices{
+    display: grid;
+}
+
+.Quick{
+    display: grid;
+}
+
+#address{
+    text-decoration: none;
+    color: rgb(116, 119, 121);
+}
+
+#location{
+    text-decoration: none;
+    color: rgb(116, 119, 121);
+}
+
+#phone{
+    text-decoration: none;
+    color: rgb(116, 119, 121);
+}
+
+#airtel{
+    text-decoration: none;
+    color: rgb(116, 119, 121);
+}
+
+#email{
+    text-decoration: none;
+    color: rgb(116, 119, 121);
+}
+
+#website{
+    text-decoration: none;
+    color: rgb(116, 119, 121);
+}
+
+
+#hm{
+    text-decoration: none;
+    color: rgb(116, 119, 121);
+    word-spacing: normal;
+}
+
+#hml{
+    text-decoration: none;
+    color: white;
+}
+
+.links a:hover{
+    background-color: beige;
+    color: green;
+    border-radius: 2px;
+    height: 30px;
+    width: 20px;
+}
+
+#hm:hover{
+    color: white;
+    background-color: green;
+    height: 50px;
+    width: fit-content;
+}
+
+.submitCancel{
+    display: flex;
+}
+
+.np{
+    display: flex;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.button{
+    padding: 20px;
+}
+
+.infoabout{
+    display: flex;
+    border: 2px solid black;
+    width: 90%;;
+}
+
+.mo{
+    width: 2000px;
+    border: 0px;
+    background-color: rgb(204, 248, 248);
+    border-radius: 30px;
+}

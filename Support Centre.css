@@ -1,0 +1,34 @@
+
+
+label{
+    display: block;
+    color: rgb(28, 49, 6);
+
+}
+
+
+#Submit{
+    color:rgb(28, 49, 6);
+}
+
+#Submit :hover{
+    color: white;
+    background-color: rgb(24, 22, 22);
+}
+.mainform{
+    display: flex;
+}
+
+.mainform:hover{
+    background-color: rgb(240, 133, 217);
+}
+#newold{
+    background-color: rgb(112, 112, 134);
+}
+
+#abfixed{
+    font-size: 10px;
+    text-align: center;
+
+}
+

@@ -1,0 +1,20 @@
+.mainholiday{
+    width: 1000px;
+    padding-left: 100px;
+    background-color: rgb(206, 195, 176);
+    
+}
+
+h1{
+    font-size: 25px;
+}
+
+p{
+    font-size: 20px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#logow{
+    border-radius: 50px;
+}
